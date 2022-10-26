@@ -2523,7 +2523,7 @@ dismissal, for he dreaded lest he should strike him and all his people
 dead, and place himself on the royal throne. He thought about it for a
 long time, and at last found good counsel. He sent to the little tailor
 and caused him to be informed that as he was a great warrior, he had one
-request to make to him. In a forest of his country lived two giants,
+Request to make to him. In a forest of his country lived two giants,
 who caused great mischief with their robbing, murdering, ravaging,
 and burning, and no one could approach them without putting himself in
 danger of death. If the tailor conquered and killed these two giants, he
@@ -4860,12 +4860,12 @@ countryman; but the judge told him that was not likely, and cut the
 matter short by ordering him off to the gallows.
 
 So away he was taken; but as he stood on the steps he said, 'My Lord
-Judge, grant me one last request.' 'Anything but thy life,' replied the
+Judge, grant me one last Request.' 'Anything but thy life,' replied the
 other. 'No,' said he, 'I do not ask my life; only to let me play upon
 my fiddle for the last time.' The miser cried out, 'Oh, no! no! for
 heaven's sake don't listen to him! don't listen to him!' But the judge
 said, 'It is only this once, he will soon have done.' The fact was, he
-could not refuse the request, on account of the dwarf's third gift.
+could not refuse the Request, on account of the dwarf's third gift.
 
 Then the miser said, 'Bind me fast, bind me fast, for pity's sake.' But
 the countryman seized his fiddle, and struck up a tune, and at the first
@@ -5189,7 +5189,7 @@ The servant could now easily prove his innocence; and the king, to make
 amends for the wrong, allowed him to ask a favour, and promised him
 the best place in the court that he could wish for. The servant refused
 everything, and only asked for a horse and some money for travelling, as
-he had a mind to see the world and go about a little. When his request
+he had a mind to see the world and go about a little. When his Request
 was granted he set out on his way, and one day came to a pond, where he
 saw three fishes caught in the reeds and gasping for water. Now, though
 it is said that fishes are dumb, he heard them lamenting that they must
@@ -9351,7 +9351,7 @@ distribute copies of a Project Gutenberg-tm work in a format other than
 posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
+Request, of the work in its original "Plain Vanilla ASCII" or other
 form.  Any alternate format must include the full Project Gutenberg-tm
 License as specified in paragraph 1.E.1.
 

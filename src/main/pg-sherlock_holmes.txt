@@ -3076,7 +3076,7 @@ direction."
 knew the firm for which this man worked. Having taken the printed
 description. I eliminated everything from it which could be the
 result of a disguise--the whiskers, the glasses, the voice, and I
-sent it to the firm, with a request that they would inform me
+sent it to the firm, with a Request that they would inform me
 whether it answered to the description of any of their
 travellers. I had already noticed the peculiarities of the
 typewriter, and I wrote to the man himself at his business
@@ -3780,7 +3780,7 @@ building, two-storied, slate-roofed, with great yellow blotches
 of lichen upon the grey walls. The drawn blinds and the smokeless
 chimneys, however, gave it a stricken look, as though the weight
 of this horror still lay heavy upon it. We called at the door,
-when the maid, at Holmes' request, showed us the boots which her
+when the maid, at Holmes' Request, showed us the boots which her
 master wore at the time of his death, and also a pair of the
 son's, though not the pair which he had then had. Having measured
 these very carefully from seven or eight different points, Holmes
@@ -4513,7 +4513,7 @@ later, upon the night of May 2nd."
 "Thank you. Pray proceed."
 
 "When my father took over the Horsham property, he, at my
-request, made a careful examination of the attic, which had been
+Request, made a careful examination of the attic, which had been
 always locked up. We found the brass box there, although its
 contents had been destroyed. On the inside of the cover was a
 paper label, with the initials of K. K. K. repeated upon it, and
@@ -11146,7 +11146,7 @@ if we do not succeed in clearing the matter up. With your
 permission, Mr. Holder, I shall now continue my investigations
 outside."
 
-He went alone, at his own request, for he explained that any
+He went alone, at his own Request, for he explained that any
 unnecessary footmarks might make his task more difficult. For an
 hour or more he was at work, returning at last with his feet
 heavy with snow and his features as inscrutable as ever.
@@ -12834,7 +12834,7 @@ distribute copies of a Project Gutenberg-tm work in a format other than
 posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
+Request, of the work in its original "Plain Vanilla ASCII" or other
 form.  Any alternate format must include the full Project Gutenberg-tm
 License as specified in paragraph 1.E.1.
 

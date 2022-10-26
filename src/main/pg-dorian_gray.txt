@@ -8686,7 +8686,7 @@ distribute copies of a Project Gutenberg-tm work in a format other than
 posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
+Request, of the work in its original "Plain Vanilla ASCII" or other
 form.  Any alternate format must include the full Project Gutenberg-tm
 License as specified in paragraph 1.E.1.
 

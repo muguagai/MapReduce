@@ -1854,7 +1854,7 @@ worked well, and Tom began to groan again. Sid yawned, stretched, then
 brought himself up on his elbow with a snort, and began to stare at Tom.
 Tom went on groaning. Sid said:
 
-"Tom! Say, Tom!" [No response.] "Here, Tom! TOM! What is the matter,
+"Tom! Say, Tom!" [No Response.] "Here, Tom! TOM! What is the matter,
 Tom?" And he shook him and looked in his face anxiously.
 
 Tom moaned out:
@@ -2937,7 +2937,7 @@ boys could have touched him.
 "Hurry, men!" he said, in a low voice; "the moon might come out at any
 moment."
 
-They growled a response and went on digging. For some time there was no
+They growled a Response and went on digging. For some time there was no
 noise but the grating sound of the spades discharging their freight of
 mould and gravel. It was very monotonous. Finally a spade struck upon
 the coffin with a dull woody accent, and within another minute or two
@@ -3297,7 +3297,7 @@ feeling sore and drowsy. The family were still at table, but they had
 finished breakfast. There was no voice of rebuke; but there were averted
 eyes; there was a silence and an air of solemnity that struck a chill
 to the culprit's heart. He sat down and tried to seem gay, but it
-was up-hill work; it roused no smile, no response, and he lapsed into
+was up-hill work; it roused no smile, no Response, and he lapsed into
 silence and let his heart sink down to the depths.
 
 After breakfast his aunt took him aside, and Tom almost brightened in
@@ -3717,7 +3717,7 @@ a resolution to escape from hard usage and lack of sympathy at home by
 roaming abroad into the great world never to return; and ended by hoping
 that Joe would not forget him.
 
-But it transpired that this was a request which Joe had just been going
+But it transpired that this was a Request which Joe had just been going
 to make of Tom, and had come to hunt him up for that purpose. His mother
 had whipped him for drinking some cream which he had never tasted and
 knew nothing about; it was plain that she was tired of him and wished
@@ -3914,7 +3914,7 @@ that if you was a hermit."
 "Run away! Well, you _would_ be a nice old slouch of a hermit. You'd be
 a disgrace."
 
-The Red-Handed made no response, being better employed. He had finished
+The Red-Handed made no Response, being better employed. He had finished
 gouging out a cob, and now he fitted a weed stem to it, loaded it with
 tobacco, and was pressing a coal to the charge and blowing a cloud of
 fragrant smoke--he was in the full bloom of luxurious contentment. The
@@ -8677,7 +8677,7 @@ discovered to bear marks of conspicuous originality. The village paper
 published biographical sketches of the boys.
 
 The Widow Douglas put Huck's money out at six per cent., and Judge
-Thatcher did the same with Tom's at Aunt Polly's request. Each lad had
+Thatcher did the same with Tom's at Aunt Polly's Request. Each lad had
 an income, now, that was simply prodigious--a dollar for every weekday in
 the year and half of the Sundays. It was just what the minister got--no,
 it was what he was promised--he generally couldn't collect it. A dollar
@@ -9000,7 +9000,7 @@ than "Plain Vanilla ASCII" or other format used in the official
 version posted on the official Project Gutenberg-tm web site
 (www.gutenberg.net), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
+of obtaining a copy upon Request, of the work in its original "Plain
 Vanilla ASCII" or other form. Any alternate format must include the full
 Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
